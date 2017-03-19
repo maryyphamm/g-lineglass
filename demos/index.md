@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Demos
+title: Demo
 tags: 
 date: 
 comments: false
