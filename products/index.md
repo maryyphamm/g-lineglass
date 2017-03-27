@@ -15,7 +15,7 @@ comments: false
 </div>
 <hr>
 
-#### Title
+#### A R Whiteboard Glass
 <figure>
-	<a href="glass-1.jpg"><img src="glass-1.jpg">Option to add a description here.</a>
+	<a href="glass-1.jpg"><img src="glass-1.jpg">As you can see we have stopped the annoying reflection from room lighting and reflection from windows near Whiteboard. Greatly improves using Whiteboards to project images on.</a>
 </figure>
